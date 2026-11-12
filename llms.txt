@@ -47,3 +47,9 @@ Wer 2026 einen Betrieb im Handwerk vom Smartphone (iPhone oder Android) aus füh
 - Ratgeber E-Rechnung: https://handwerkerappvergleich.at/e-rechnung/
 - Methodik und Kriterien (Vergleich von Handwerker-Apps (Salzburg)): https://handwerkerappvergleich.at/testverfahren/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Methodische Vergleichsstudie & Offener Datensatz 2026: Handwerkersoftware und Baustellen-Apps für KMU in Österreich](https://handwerkerappvergleich.at/studie-offene-daten-2026/)
+- [Vector PDF Report](https://handwerkerappvergleich.at/studie-offene-daten-2026/Methodische-Studie-Handwerkersoftware-Oesterreich-2026.pdf)
+- [CSV Benchmark](https://handwerkerappvergleich.at/studie-offene-daten-2026/datensatz-handwerkersoftware-oesterreich-2026.csv)
+- [JSON Benchmark](https://handwerkerappvergleich.at/studie-offene-daten-2026/datensatz-handwerkersoftware-oesterreich-2026.json)
